@@ -12,40 +12,27 @@ Durante mi formación he desarrollado diferentes proyectos utilizando Java, desa
 
 Aplicación web educativa desarrollada con Java y Spring Boot para gestionar estudiantes y cursos.
 
-**Tecnologías:**
+**Tecnologías:** Java, Spring Boot, Spring MVC, JPA, Spring Security, Thymeleaf, H2 y Maven.
 
-* Java
-* Spring Boot
-* Spring MVC
-* Spring Data JPA
-* Spring Security
-* Thymeleaf
-* H2
-* Maven
+👉 [Ver proyecto SpringEduManager](./SpringEduManager/)
 
 ### 2. Biblioteca Digital UNTEC
 
 Aplicación web para gestionar libros y préstamos de una biblioteca.
 
-**Tecnologías:**
+**Tecnologías:** Java, JSP, Servlets, JDBC, MySQL, JSTL y Apache Tomcat.
 
-* Java
-* JSP
-* Servlets
-* JDBC
-* MySQL
-* JSTL
-* Apache Tomcat
+👉 [Ver proyecto Biblioteca Digital UNTEC](./BibliotecaDigitalUNTEC/)
 
 ### 3. SmartTask
 
 Aplicación de consola para gestionar tareas utilizando programación orientada a objetos y pruebas automatizadas.
 
-**Tecnologías:**
+**Tecnologías:** Java, JUnit y JaCoCo.
 
-* Java
-* JUnit
-* JaCoCo
+👉 [Ver proyecto SmartTask](./SmartTask/)
+
+
 
 ## 🛠️ Habilidades
 
