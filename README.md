@@ -64,6 +64,8 @@ Mi objetivo es continuar desarrollándome en el área de tecnología, adquirir e
 
 ## 🔗 Contacto
 
-**LinkedIn:** https://www.linkedin.com/in/catherine-lara-033627292
+**LinkedIn:**
+https://www.linkedin.com/in/catherine-lara-033627292
 
-**Portafolio:** https://docs.google.com/document/d/1T9yiaKGn3UlKhu71yE0U-QT3rUnpjJnq0KAqOeuB5Io/edit?usp=sharing
+**Portafolio:**
+https://docs.google.com/document/d/1T9yiaKGn3UlKhu71yE0U-QT3rUnpjJnq0KAqOeuB5Io/edit?usp=sharing
